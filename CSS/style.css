@@ -38,7 +38,7 @@ img{
     width: 0;
     top: 0;
     left: 0;
-    background-color: blue;
+    background-color: rgb(104, 104, 247);
     margin-top: 30px;
     transition: .5s;
 }
@@ -51,7 +51,7 @@ img{
     width: 100%;
     top: 0;
     left: 0;
-    background-color: blue;
+    background-color: rgb(104, 104, 247);
     margin-top: 30px;
 }
 .home{
